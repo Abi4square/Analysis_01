@@ -1,3 +1,2 @@
 # Analysis_01
-Data analysis using python.
-The library used are Numpy,Pandas and Matplotlib
+This project contains sql code samples used for the 8 weeks SQL training course.
